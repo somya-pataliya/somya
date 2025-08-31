@@ -1,3 +1,3 @@
 # somya
 this is my first repository
-author-somya
+author-somya pataliya .
